@@ -33,7 +33,7 @@ public class User {
 	      System.out.println("car1目前的速度："+car1.getSpeed());
 	      System.out.println("car2目前的速度："+car2.getSpeed());
 		  //xixi
-		  //版本1
+		  //版本2
 	}
 
 }
