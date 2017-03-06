@@ -4,6 +4,7 @@ public class Land {
 
 	public static void main(String[] args) {
 		// TODO 自动生成的方法存根
+		//update
 		 Village.waterAmount=200;//用类名调用setWaterAmount(int m),并向参数传值200
 	       int leftWater =Village.waterAmount;//用Village类的类名访问waterAmount
 	       System.out.println("水井中有 "+leftWater+" 升水");
